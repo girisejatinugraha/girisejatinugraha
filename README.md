@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @girisejatinugraha
+- 👋 Hi, I’m Giri Sejati Nugraha
+- 👨‍🦰 I'm a Data Analyst | Web Developer
+
+Contact Me:
+- ✉️ Email: girisejatinugraha@gmail.com
 
 
 <!---
