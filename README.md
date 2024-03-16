@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Giri Sejati Nugraha
-- 👨‍🦰 I'm a Data Analyst | Web Developer
+- 👋 Hi There!, I’m Giri Sejati Nugraha
+- 👨‍🦰 I'm a Data Analyst | Web Developer | Student
 
 Let's Connect:
-- ![image](https://github.com/girisejatinugraha/girisejatinugraha/assets/136765265/7d803de8-07a9-4ab9-a72d-99dcceb5ca77)
-Instagran:
-- LinkedIn:
-- Tiktok:
+- Instagram: https://instagram.com/hi.giri16
+- LinkedIn: https://www.linkedin.com/in/giri-sejati-nugraha
+- TikTok: https://www.tiktok.com/@hi.pang16
   
 Contact Me:
 - ✉️ Email: girisejatinugraha@gmail.com
