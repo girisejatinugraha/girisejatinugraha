@@ -1,24 +1,6 @@
 - 👋 Hi There!, I’m Giri Sejati Nugraha
 - 👨‍🦰 I'm a Data Analyst | Web Developer | Student
 
-Skills:
-Data Analyst:    
-- Microsoft Excel
-- Tableau
-- SQL
-- Python
-
-Web Developer:
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- PHP Native
-- Laravel
-- React.JS
-- Node.Js
-- Git
-
 Let's Connect:
 - Instagram: https://instagram.com/hi.giri16
 - LinkedIn: https://www.linkedin.com/in/giri-sejati-nugraha
