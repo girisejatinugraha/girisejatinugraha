@@ -7,7 +7,7 @@ Let's Connect:
 - TikTok: https://www.tiktok.com/@hi.pang16
   
 Contact Me:
-- ✉️ Email: girisejatinugraha@gmail.com
+- Email: girisejatinugraha@gmail.com
 
 
 <!---
