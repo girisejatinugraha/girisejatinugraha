@@ -4,7 +4,7 @@
 Let's Connect:
 - Instagram: https://instagram.com/gs.nugraha16
 - LinkedIn: https://www.linkedin.com/in/giri-sejati-nugraha
-- TikTok: https://www.tiktok.com/@hi.pang16
+- TikTok: https://www.tiktok.com/@apang_16
   
 Contact Me:
 - Email: girisejatinugraha@gmail.com
