@@ -1,5 +1,5 @@
 - 👋 Hi There!, I’m Giri Sejati Nugraha
-- 👨‍🦰 I'm a Data Analyst & Science | Web Developer | Student
+- 👨‍🦰 I'm a Data Analyst & Scientist | Web Developer | Student
 
 Let's Connect:
 - Instagram: https://instagram.com/gs.nugraha16
