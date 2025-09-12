@@ -1,5 +1,4 @@
 - 👋 Hi There!, I’m Giri Sejati Nugraha
-- 👨‍🦰 I'm a Data Analyst & Scientist | Web Developer | Student
   
 Contact Me:
 - Email: girisejatinugraha@gmail.com
